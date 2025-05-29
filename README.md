@@ -35,6 +35,38 @@ Pack Your Bags is a modern and responsive travel website designed using HTML5 an
 - Ideal for showcasing travel content and attracting potential customers.
 -  ![Screenshot 2025-04-05 173021](https://github.com/user-attachments/assets/d5d2a888-dfff-44a3-8db6-a7c250eafd64)
 
+## project structure
+- pack-your-bags/
+- │
+- ├── index.html /              # Main homepage
+- ├── services.html             # Services section page
+- ├── about.html                # About Us page
+- ├── gallery.html              # Our Gallery page
+- │
+- ├── css/
+- │   └── style.css             # Main stylesheet
+- │
+- ├── images/                   # All images used in the site
+- │   ├── banner.jpg            # Homepage banner image
+- │   ├── destination1.jpg
+- │   ├── destination2.jpg
+- │   ├── team.jpg
+- │   └── ...                   # Other gallery or section images
+- │
+- ├── icons/                    # Folder for icons used in services
+- │   ├── hotel-icon.png
+- │   ├── flight-icon.png
+- │   └── ... 
+- │
+- ├── fonts/                    # Optional: Custom web fonts
+- │   └── ...
+- │
+- ├── README.md                 # Project overview (use the description you wrote)
+- ├── LICENSE                   # Optional: License file
+- └── assets/
+    └── screenshots/
+        └── screenshot-landing-page.png   # Optional: Project demo screenshots
+
 
 ## Purpose:
 This website was built as a personal portfolio project to demonstrate frontend development skills using HTML5 and CSS3. It also serves as a functional template for travel agencies and blogs under the brand "Pack Your Bags."
