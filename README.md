@@ -15,15 +15,15 @@ Pack Your Bags is a modern and responsive travel website designed using HTML5 an
    - Navigation bar for easy access to all major sections.
    - Brief highlights of top destinations and current offers.
 
-# 2. Services:
+### 2. Services:
    - Detailed overview of travel services such as customized tour packages, hotel and flight bookings, visa assistance, local guides, and more.
    - Visually enhanced with icons and organized content layout.
 
-# 3. About Us:
+### 3. About Us:
    - Tells the story behind "Pack Your Bags" and its mission to make travel hassle-free and exciting.
    - Shares insights about the team and their dedication to helping people explore the world.
 
-# 4. Our Gallery:
+### 4. Our Gallery:
    - A dynamic collection of travel photos arranged in a responsive grid.
    - Enhanced with CSS3 hover effects for interactivity.
    - Gives users a visual experience of various destinations.
